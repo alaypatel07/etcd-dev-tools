@@ -1,7 +1,7 @@
 # etcd-dev-tools
 This repository has tools to make etcd development and debugging easy.
 
-### Spin a etcd v2 cluster
+### Spin a etcd cluster with docker-compose v2
 
 1. Install docker-compose and clone the repo.
 2. `cd etcd-dev-tools/etcd-v2`

@@ -82,7 +82,7 @@ services:
           etcd_dev:
             ipv4_address: 172.30.66.13
         environment:
-          ETCDCTL_API: 2
+          ETCDCTL_API: 3
           ETCDCTL_ENDPOINTS: http://etcd-1:2379,http://etcd-2:2379,http://etcd-3:2379
 
 networks:
